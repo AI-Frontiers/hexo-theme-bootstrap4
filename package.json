@@ -1,0 +1,26 @@
+{
+  "name": "hexo-theme-skeleton",
+  "version": "1.0.0",
+  "description": "An all-purpose hexo skeleton theme.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jim-Zenn/hexo-theme-skeleton"
+  },
+  "keywords": [
+    "hexo",
+    "theme"
+  ],
+  "author": "Jim Zenn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jim-Zenn/hexo-theme-skeleton/issues"
+  },
+  "homepage": "https://github.com/Jim-Zenn/hexo-theme-skeleton#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
